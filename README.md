@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hey there 👋, Welcome to my Github Page !
 
-<!--
-**Jhagrut/Jhagrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Jhagrut&color=orange"> </p>
 
-Here are some ideas to get you started:
+- ☘️ Pre-Final Year B.Tech Electronics Engineering student at VJTI.
+- 📫 How to reach me **jhagrutpradeep@gmail.com**.
+- 👨‍💻 Research Intern at IIIT Pune.
+- 👨‍💼 Incoming Summer Analyst at Goldman Sachs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/Jhagrut/my-stats/blob/main/generated/overview.svg">
+  <img src="https://github.com/Jhagrut/my-stats/blob/main/generated/languages.svg">
+</div>
+
+### Connect with me:
+
+[<img align="left" alt="jhagrut-lalwani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/jhagrut-lalwani
