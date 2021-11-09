@@ -2,6 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jhagrut&color=orange"> </p>
 
+- 🌐 View My [**Portfolio**](https://jhagrutlalwani.netlify.app/)
 - ☘️ Pre-Final Year B.Tech Electronics Engineering student at VJTI.
 - 📫 How to reach me **jhagrutpradeep@gmail.com**.
 - 👨‍💻 Research Intern at IIIT Pune.
@@ -15,5 +16,7 @@
 ### Connect with me:
 
 [<img align="left" alt="jhagrut-lalwani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jhagrut-lalwani | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 
 [linkedin]: https://linkedin.com/in/jhagrut-lalwani
+[facebook]: https://www.facebook.com/jhagrut.lalwani/
