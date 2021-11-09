@@ -8,6 +8,11 @@
 - 👨‍💻 Research Intern at IIIT Pune.
 - 👨‍💼 Incoming Summer Analyst at Goldman Sachs.
 
+<div>
+  <img src="https://github.com/Jhagrut/my-stats/blob/main/generated/overview.svg">
+  <img src="https://github.com/Jhagrut/my-stats/blob/main/generated/languages.svg">
+</div>
+
 ### Connect with me:
 
 [<img align="left" alt="jhagrut-lalwani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
