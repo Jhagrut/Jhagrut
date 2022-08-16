@@ -3,10 +3,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jhagrut&color=orange"> </p>
 
 - 🌐 View My [**Portfolio**](https://jhagrutlalwani.netlify.app/)
-- ☘️ Pre-Final Year B.Tech Electronics Engineering student at VJTI.
+- ☘️ Final Year B.Tech Electronics Engineering student at VJTI.
 - 📫 How to reach me **jhagrutpradeep@gmail.com**.
-- 👨‍💻 Research Intern at IIIT Pune.
-- 👨‍💼 Incoming Summer Analyst at Goldman Sachs.
+- 👨‍💻 Ex-Research Intern at IIIT Pune.
+- 👨‍💼 Incoming Analyst at Goldman Sachs.
 
 <div>
   <img src="https://github.com/Jhagrut/my-stats/blob/main/generated/overview.svg">
